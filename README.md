@@ -1,4 +1,5 @@
 ## Project Setup Coming Soon 2
+**[Live Demo](https://cs-comingsoon2.netlify.app)**
 
 ```sh
 npm install
