@@ -4,7 +4,7 @@ import NavBar from './NavBar.vue';
 </script>
 <template>
     <header>
-        <Logo title="CoderS" link="https://codersujon.com/"/>
+        <Logo title="Cargoaim" link="https://www.cargoaim.net/"/>
         <NavBar />
     </header>
 </template>

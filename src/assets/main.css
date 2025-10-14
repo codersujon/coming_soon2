@@ -33,6 +33,15 @@ header .logo {
     font-weight: 600;
 }
 
+.header-logo{
+    display: flex;
+    align-items: center;
+}
+
+#header_logo a img{
+    margin-right: 10px;
+}
+
 header nav ul {
     position: relative;
     display: flex;
