@@ -300,3 +300,15 @@ section .sci li a {
         margin-left: 0px;
     }
 }
+
+@media (max-width: 480px) {
+    header nav ul {
+        display: none;
+    }
+
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
