@@ -1,7 +1,7 @@
 <script setup>
     import {onMounted, ref } from 'vue';
     // CountDown
-    const countDate = new Date('Nov 30, 2025 00:00:00').getTime();
+    const countDate = new Date('Nov 29, 2025 00:00:00').getTime();
     const d = ref("");
     const h = ref("");
     const m = ref("");

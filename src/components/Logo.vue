@@ -1,5 +1,5 @@
 <script setup>
-import cargoaimLogo from '@/assets/cargoaim.jpg'  
+import Logo from '@/assets/usaeagle.jpg'  
 
 defineProps({
     title: String,
@@ -9,7 +9,7 @@ defineProps({
 <template>
     <div id="header_logo">
         <a :href="link" class="logo header-logo" target="_blank">
-            <img :src="cargoaimLogo" alt="Cargoaim" style="width: 50px; height:50px; border-radius: 5px;">
+            <img :src="Logo" alt="USA Eagle" style="width: 50px; height:50px; border-radius: 5px;">
             {{ title }}
         </a>
     </div>
